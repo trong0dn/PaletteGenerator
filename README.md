@@ -2,11 +2,6 @@
 [Version 1.0] <br/>
 March 29, 2021
 
-## CONTACT INFORMATION
-
-Contact Name:		  Trong Nguyen <br/>
-Contact Email:		trong0dn@gmail.com
-
 ## DESCRIPTION
 
 - PaletteGenerator is an application that creates a random color palette with 
